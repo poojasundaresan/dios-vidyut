@@ -1,0 +1,16 @@
+Details
+
+- Name:       Sample
+- Email:      sample@gmail.com
+- Vidyut Id:  V91305
+- College:    Amrita Vishwa Vidyapeetham
+- Place:      Kollam
+
+
+You can fill the details using the following template
+
+- Name:       JOSEPH C ANTONY
+- Email:      josephcantony444@gmail.com
+- Vidyut Id:  v194148
+- College:    college of engineering and management punnappra
+- Place: alappuzha
