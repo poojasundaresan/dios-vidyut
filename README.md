@@ -9,6 +9,11 @@ Do you want to earn $3000 in three months? Do you want to get valuable industry 
 - Add your details based on the file "Sample.txt" which already exists
 - Send a Pull Request for the changes you have made
 
+
+## Questiions Session
+[https://create.kahoot.it/share/dive-into-opensource/68d87f79-5edd-428c-93ae-94fd9e62b916](https://create.kahoot.it/share/dive-into-opensource/68d87f79-5edd-428c-93ae-94fd9e62b916)
+
+
 ## Feedback
 
 You can submit your feedback for the session using this link [https://goo.gl/forms/AORRrCs3ELVaUYXr1](https://goo.gl/forms/AORRrCs3ELVaUYXr1)
